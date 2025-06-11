@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains MATLAB scripts to compute the &delta;<sup>13</sup>C, &delta;<sup>18</sup>O, Δ<sub>47</sub>, and Δ<sub>48</sub> of coral aragonite. The full description of the model and parameters can be found in: Watkins, J. Jia, Q., Zhang, S., Devriendt, L., and Chen, S., 2025, A coral model for dual clumped isotopes and biomineralization, submitted to Geochemistry, Geophysics, Geosystems. 
+This repository contains MATLAB scripts to compute the &delta;<sup>13</sup>C, &delta;<sup>18</sup>O, Δ<sub>47</sub>, and Δ<sub>48</sub> of coral aragonite. The full description of the model and parameters can be found in: Watkins, J. Jia, Q., Zhang, S., Devriendt, L., and Chen, S., 2025, A coral biomineralization model for dual clumped isotopes, submitted to Geochemistry, Geophysics, Geosystems. 
 
 ![Figure_1](https://github.com/user-attachments/assets/0c264f2d-3dd5-48f6-9728-b7bcc3773c14)
 
